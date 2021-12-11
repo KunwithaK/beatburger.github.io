@@ -1,7 +1,7 @@
 ---
 layout: bot
-title: "Barrie Page"
-name: "Barrie Name"
+title: "Barrie"
+name: "Barrie"
 description: "a page about Barrie"
 
 botName: "Barrie"
